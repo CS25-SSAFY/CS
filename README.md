@@ -19,7 +19,13 @@
 - 알고리즘
 - 컴퓨터구조
 
+## 참고서적
+주홍철, 《면접을 위한 CS 전공지식 노트》, 2022 * 필요 시 추가
+
+## 스터디 날짜
+- 매주 화요일 퇴실 이후
+
 ## 멤버 소개
 |[![](https://avatars.githubusercontent.com/u/127590064?v=4)](https://github.com/JiEung2)|[![](https://avatars.githubusercontent.com/u/108177348?s=96&v=4)](https://github.com/goosebbeoms)|[![](https://avatars.githubusercontent.com/u/140034014?s=96&v=4)](https://github.com/NMYONG)|[![](https://avatars.githubusercontent.com/u/154718012?s=96&v=4)](https://github.com/Auyeol)|[![](https://avatars.githubusercontent.com/u/156265339?s=96&v=4)](https://github.com/jiyeoniing)|[![](https://avatars.githubusercontent.com/u/156265385?s=96&v=4)](https://github.com/gahyoenj)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 지응 | 규범 | 남용 | 금열 | 지연 | 가현 |
+| `지응` | `규범` | `남용` | `금열` | `지연` | `가현` |
