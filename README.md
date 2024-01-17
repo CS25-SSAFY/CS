@@ -20,6 +20,6 @@
 - 컴퓨터구조
 
 ## 멤버 소개
-|[![](https://avatars.githubusercontent.com/u/127590064?v=4)](https://github.com/JiEung2)|[![](https://avatars.githubusercontent.com/u/108177348?s=64&v=4)](https://github.com/goosebbeoms)|[![](https://avatars.githubusercontent.com/u/140034014?s=96&v=4)](https://github.com/NMYONG)|[![](https://avatars.githubusercontent.com/u/154718012?s=96&v=4)](https://github.com/Auyeol)|[![](https://avatars.githubusercontent.com/u/156265339?s=96&v=4)](https://github.com/jiyeoniing)|[![](https://avatars.githubusercontent.com/u/156265385?s=96&v=4)](https://github.com/gahyoenj)|
+|[![](https://avatars.githubusercontent.com/u/127590064?v=4)](https://github.com/JiEung2)|[![](https://avatars.githubusercontent.com/u/108177348?s=96&v=4)](https://github.com/goosebbeoms)|[![](https://avatars.githubusercontent.com/u/140034014?s=96&v=4)](https://github.com/NMYONG)|[![](https://avatars.githubusercontent.com/u/154718012?s=96&v=4)](https://github.com/Auyeol)|[![](https://avatars.githubusercontent.com/u/156265339?s=96&v=4)](https://github.com/jiyeoniing)|[![](https://avatars.githubusercontent.com/u/156265385?s=96&v=4)](https://github.com/gahyoenj)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 지응 | 규범 | 남용 | 금열 | 지연 | 가현 |
